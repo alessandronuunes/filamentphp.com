@@ -4,7 +4,7 @@ slug: alessandro-nuunes-member
 author_slug: alessandro-nuunes
 categories: [panel-builder, table-builder, form-builder]
 description: Comprehensive member management with invitations and role-based access control for multi-tenant applications.
-docs_url: https://raw.githubusercontent.com/alessandronuunes/filament-member/main/README.md
+docs_url: https://raw.githubusercontent.com/alessandronuunes/filament-member/v1.0.3/README.md
 github_repository: alessandronuunes/filament-member
 has_dark_theme: true
 has_translations: true
